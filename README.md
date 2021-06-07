@@ -9,8 +9,10 @@
 <br>
 <h3> menampilkan home di tugas modular </h3> 
 <img width="719" alt="Screen Shot 2021-06-07 at 23 30 05" src="https://user-images.githubusercontent.com/77155869/121056430-6376c400-c7e8-11eb-894d-cc13259938d3.png">
-
-
+<br>
+<h3> menamoilkan crud di tugas 10  </h3>
+<img width="562" alt="Screen Shot 2021-06-07 at 23 32 21" src="https://user-images.githubusercontent.com/77155869/121056742-b8b2d580-c7e8-11eb-9659-56eaa0e6853c.png">
+<br>
 
 <h3> menginplementasikan dengan praktek sebelumya </h3> 
 <img width="1440" alt="Screen Shot 2021-06-07 at 22 46 18" src="https://user-images.githubusercontent.com/77155869/121055303-560d0a00-c7e7-11eb-9ac3-99b57027f0db.png">
